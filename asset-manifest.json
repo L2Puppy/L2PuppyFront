@@ -1,0 +1,40 @@
+{
+  "files": {
+    "static/js/0.2d4e7698.chunk.js": "/static/js/0.2d4e7698.chunk.js",
+    "static/js/1.4f5f66ee.chunk.js": "/static/js/1.4f5f66ee.chunk.js",
+    "static/js/2.19840576.chunk.js": "/static/js/2.19840576.chunk.js",
+    "static/js/3.84d0c5c1.chunk.js": "/static/js/3.84d0c5c1.chunk.js",
+    "static/js/4.1505cc3c.chunk.js": "/static/js/4.1505cc3c.chunk.js",
+    "main.css": "/static/css/main.7a9a3d2e.chunk.css",
+    "main.js": "/static/js/main.73299bf9.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.89cf6bdf.js",
+    "static/css/7.ddcde5f0.chunk.css": "/static/css/7.ddcde5f0.chunk.css",
+    "static/js/7.e04a5b4f.chunk.js": "/static/js/7.e04a5b4f.chunk.js",
+    "static/js/8.6ca953a9.chunk.js": "/static/js/8.6ca953a9.chunk.js",
+    "static/js/9.2d64c308.chunk.js": "/static/js/9.2d64c308.chunk.js",
+    "static/js/10.e5279cdf.chunk.js": "/static/js/10.e5279cdf.chunk.js",
+    "static/js/11.6d4b811e.chunk.js": "/static/js/11.6d4b811e.chunk.js",
+    "static/js/12.0ecbb773.chunk.js": "/static/js/12.0ecbb773.chunk.js",
+    "static/js/13.541c7e7e.chunk.js": "/static/js/13.541c7e7e.chunk.js",
+    "static/js/14.731b20c1.chunk.js": "/static/js/14.731b20c1.chunk.js",
+    "static/js/15.f1cc2001.chunk.js": "/static/js/15.f1cc2001.chunk.js",
+    "static/js/16.b258489b.chunk.js": "/static/js/16.b258489b.chunk.js",
+    "static/js/17.5ba7cef2.chunk.js": "/static/js/17.5ba7cef2.chunk.js",
+    "index.html": "/index.html",
+    "static/js/0.2d4e7698.chunk.js.LICENSE.txt": "/static/js/0.2d4e7698.chunk.js.LICENSE.txt",
+    "static/js/7.e04a5b4f.chunk.js.LICENSE.txt": "/static/js/7.e04a5b4f.chunk.js.LICENSE.txt",
+    "static/js/8.6ca953a9.chunk.js.LICENSE.txt": "/static/js/8.6ca953a9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Cubic.befe83e1.woff2",
+    "static/media/hero.6c329eb9.png": "/static/media/hero.6c329eb9.png",
+    "static/media/metamask.7db94670.svg": "/static/media/metamask.7db94670.svg",
+    "static/media/title.85b6d679.svg": "/static/media/title.85b6d679.svg",
+    "static/media/walletconnect.dfa25e47.svg": "/static/media/walletconnect.dfa25e47.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89cf6bdf.js",
+    "static/css/7.ddcde5f0.chunk.css",
+    "static/js/7.e04a5b4f.chunk.js",
+    "static/css/main.7a9a3d2e.chunk.css",
+    "static/js/main.73299bf9.chunk.js"
+  ]
+}
